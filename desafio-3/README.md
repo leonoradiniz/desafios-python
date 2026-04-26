@@ -1,4 +1,4 @@
-# Exercícios com Listas em Python
+# 📃 Exercícios com Listas em Python
 
 Projeto acadêmico com vários exemplos práticos de manipulação de listas em Python.
 
@@ -18,7 +18,7 @@ desafio-3-listas/
 
 ---
 
-## Descrição dos Exercícios
+## 📌 Descrição dos Exercícios
 
 ### `listaNotasAlunos.py`
 Combina duas listas — nomes de alunos e suas notas — em uma única lista intercalada usando `zip()`. Demonstra o uso de:
