@@ -1,10 +1,10 @@
-# Loja Simples
+# 🛍️ Loja Simples
 
 Sistema de simulação de loja desenvolvido em Python, com cadastro de produtos, realização de vendas, cálculo de descontos e geração de relatórios.
 
 ---
 
-## Estrutura do projeto
+## 📁 Estrutura do projeto
 
 ```
 .
@@ -15,7 +15,7 @@ Sistema de simulação de loja desenvolvido em Python, com cadastro de produtos,
 
 ---
 
-## Como executar
+## ▶️ Como executar
 
 1. Clone este repositório para sua máquina.
 2. No terminal, execute:
